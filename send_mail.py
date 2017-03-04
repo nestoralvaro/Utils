@@ -90,7 +90,7 @@ if __name__ == '__main__':
     # Recipients of this e-mail (one or more)
     receivers = ["MY_FRIEND_1@gmail.com", "MY_FRIEND_2@hotmail.com"]
     # Subject text of the e-mail
-    subject = "Holaaaaa :-)"
+    subject = "Hola :-)"
     # Main body of the e-mail (can be HTML code)
     msg_body = """Hi There!  <h1>Hola</h1>\n\nCan you, <b>read this</b>\n<h2>E-mail?</h2>"""
     # Full message
